@@ -1,2 +1,2 @@
-A FFT project done in c++.
-Final Project of Calculus 2016 2nd semester.
+A FFT project done in c++. <br>
+Final Project of Course "Calculus" 2016 2nd semester.
